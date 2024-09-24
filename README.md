@@ -10,5 +10,8 @@ Health facilities’ software pertaining to the management of patients and digit
 
 The software will have a sign-up and login page where one can enter personal information on the sign-up page to be uploaded as their profile. The other option for the login page is for patients, which directs you to a page with tabs that help patients to schedule their appointments updated by SQL data, contact emergency services, and provide descriptions of common diseases; all while the user has a personalized account.
 
+# Website 
+
+<img width="779" alt="image" src="https://github.com/user-attachments/assets/9890384c-0aa2-495c-9b4a-e656b5ff8ff9">
 
 
